@@ -1,5 +1,7 @@
 # frontity-codesandobox-twentytwenty
 
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://githubbox.com/frontity-community/demo-custom-homepage-twentytwenty)
+
 This project was bootstrapped with [Frontity](https://frontity.org/).
 
 #### Table of Contents
